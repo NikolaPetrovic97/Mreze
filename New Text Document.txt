@@ -1,0 +1,2 @@
+Napraviti opciju 4 za tacno vreme(trenutno)
+Dan Mesec Godina Sati Minuti Sekunde
